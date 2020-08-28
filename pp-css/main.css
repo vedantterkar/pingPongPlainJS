@@ -1,0 +1,11 @@
+html, body{
+    overflow: hidden;
+}
+
+.canvas
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid #000000;
+}
